@@ -1,0 +1,9 @@
+# Général
+node_modules/
+.vscode/
+*.log
+*.tmp
+*.swp
+
+# Phaser
+.cache/
