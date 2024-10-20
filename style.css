@@ -1,11 +1,3 @@
 body {
-    font-family: monospace;
-    background-color: black;
-    color: green;
-    margin: 0;
-    overflow: hidden; /* Pour masquer la barre de défilement si nécessaire */
-  }
-  
-  canvas {
-    display: block; /* Pour éviter les marges par défaut */
+    background-color: white; /* Ou une autre couleur de fond */
   }
