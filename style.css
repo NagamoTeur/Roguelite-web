@@ -1,10 +1,11 @@
 body {
-    font-family: monospace; /* Pour une police à espacement fixe */
+    font-family: monospace;
     background-color: black;
     color: green;
+    margin: 0;
+    overflow: hidden; /* Pour masquer la barre de défilement si nécessaire */
   }
   
   canvas {
-    border: 1px solid white;
-    background-color: black;
+    display: block; /* Pour éviter les marges par défaut */
   }
