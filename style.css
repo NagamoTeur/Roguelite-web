@@ -1,0 +1,10 @@
+body {
+    font-family: monospace; /* Pour une police à espacement fixe */
+    background-color: black;
+    color: green;
+  }
+  
+  canvas {
+    border: 1px solid white;
+    background-color: black;
+  }
