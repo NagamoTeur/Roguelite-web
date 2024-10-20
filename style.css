@@ -1,3 +1,12 @@
 body {
-    background-color: white; /* Ou une autre couleur de fond */
-  }
+    font-family: monospace;
+    background-color: black;
+    color: green; /* Couleur du texte */
+}
+
+#jeu {
+    font-size: 16px; /* Ajustez la taille selon vos préférences */
+    width: 400px;
+    margin: 0 auto;
+    white-space: pre; /* Préserve les espaces et les retours à la ligne */
+}
